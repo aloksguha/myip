@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4c1ac94-2852-4231-a201-388fb10a196e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/images/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/images/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/bin/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/.gitignore.orig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/.gitignore.rej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/graceful-fs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/commander/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/commander/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/test/00-setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/CONTRIBUTORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/growl/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/commander/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/graceful-fs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/sigmund/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/commander/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/diff/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/graceful-fs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/sigmund/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/commander/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/growl/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/commander/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/_mocha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/bin/_mocha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/attrs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/test/bash-comparison.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/test/bash-results.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/sigmund/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/interfaces/bdd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/sigmund/bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/block-comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/block.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/test/brace-expand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/test/caching.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/case.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/test/chmod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/chmod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/supports-color/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/test/clobber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/clobber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/bin/cmd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/commander/lib/commander.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/interfaces/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/templates/coverage.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/test/cwd-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/test/dash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/browser/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/test/default_bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/test/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/diff/diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/doc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/doctype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/doctypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/dot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/test/dotted.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/browser/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/interfaces/exports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/test/extglob-ending-with-state-char.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/filters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/foreach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/examples/g.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/glob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/test/globstar-match.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/graceful-fs/graceful-fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/growl/lib/growl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/testing/head.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/hook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/html-cov.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/testing/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/interfaces/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/commander/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/escape-string-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/commander/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/testing/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/supports-color/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/inline-tags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/jade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/jade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/jade.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/jade.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/.bin/jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/bin/jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/json-cov.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/json-stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/landing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/testing/layout.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/lexer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/literal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/test/long.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/lib/lru-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/test/mark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/memory-leak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/templates/menu.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/minimatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/mixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/test/mkdirp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/mkdirp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/.bin/mkdirp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/mocha.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/mocha.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/mocha.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/mocha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/bin/mocha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/myip.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/test/nocase-nomagic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/nyan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/graceful-fs/test/open.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/bin/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/opts_fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/opts_fs_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/commander/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/debug/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/diff/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/escape-string-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/graceful-fs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/sigmund/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/growl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/commander/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/supports-color/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/example/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/test/parse_modified.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/test/pause-resume.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/pending.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/test/perm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/perm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/test/perm_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/perm_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/graceful-fs/polyfills.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/examples/pow.js.orig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/examples/pow.js.rej" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/examples/pow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/examples/pow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/browser/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/interfaces/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/test/race.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/race.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/graceful-fs/test/readdir-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/escape-string-regexp/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/supports-color/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/test/rel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/rel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/return.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/return_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/test/root-nomount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/test/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/runnable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/runtime.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/templates/script.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/self-closing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/test/short.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/sigmund/sigmund.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/test/stat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/templates/style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/suite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/.bin/supports-color" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/test/sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/tag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/tap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/interfaces/tdd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/test.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/growl/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/nodes/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/browser/tty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/test/umask.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/umask.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/node_modules/mkdirp/test/umask_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/test/umask_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/bin/usage.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/testing/user.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/testing/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/examples/usr-local.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/mkdirp/node_modules/minimist/test/whitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/xunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/test/zz-cleanup.js" />
+    </list>
+    <ignored path="myip.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="myip" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#43#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.10869565">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.5555553">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.7777777">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1427" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myip" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myip" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myip" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4c1ac94-2852-4231-a201-388fb10a196e" name="Default" comment="" />
+      <created>1443167854153</created>
+      <option name="number" value="Default" />
+      <updated>1443167854153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1427" height="873" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5667107" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/mocha/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="25.625">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5555553">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7777777">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10869565">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
