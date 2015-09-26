@@ -6,11 +6,11 @@ quick-local-ip is a utility module which provides straight-forward access to loc
 
 var myip = require('quick-local-ip');
 
-### getting ip4 network address fo local system
+### getting ip4 network address of local system
 
     myip.getLocalIP4();
 
-### getting ip6 network address fo local system
+### getting ip6 network address of local system
 
     myip.getLocalIP6();
 
