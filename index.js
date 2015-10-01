@@ -5,19 +5,40 @@
 var ni = require('os').networkInterfaces();
 module.exports = {
     getLocalIP4: function() {
-        for(var index in ni.en4){
-            if(ni.en4[index].family === 'IPv4'){
-                return ni.en4[index].address;
+        var ipAddress = [];
+        for(var key in ni){
+            for(var index in ni[key]){
+                if(ni[key][index].family === 'IPv4' && !ni[key][index].internal){
+                    ipAddress.push(ni[key][index].address);
+                }
             }
         }
+        if(ipAddress.length > 1){
+            return ipAddress;
+        }else if(ipAddress.length == 1){
+            return ipAddress[0];
+        }else{
+            return '127.0.0.1';
+        }
+
     },
     getLocalIP6: function() {
-        for(var index in ni.en4){
-            if(ni.en4[index].family === 'IPv6'){
-                return ni.en4[index].address;
+        var ipAddress = [];
+        for(var key in ni){
+            for(var index in ni[key]){
+                if(ni[key][index].family === 'IPv6' && !ni[key][index].internal){
+                    ipAddress.push(ni[key][index].address);
+                }
             }
         }
+        if(ipAddress.length > 1){
+            return ipAddress;
+        }else if(ipAddress.length == 1){
+            return ipAddress[0];
+        }else{
+            return '127.0.0.1';
+        }
+
     }
 };
-
 

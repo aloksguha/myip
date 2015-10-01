@@ -1,6 +1,6 @@
 {
   "name": "quick-local-ip",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "This is a tiny utility to get local ip address with in node applications.",
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,22 @@
     "type": "git",
     "url": "git+https://github.com/aloksguha/myip.git"
   },
+  "maintainers": [
+    {
+      "name": "aloksguha",
+      "email": "aloksguha@gmail.com"
+    }
+  ],
   "keywords": [
     "nodejs",
     "npm",
+    "local ip",
     "network",
     "ip4",
-    "ip6"
+    "ip6",
+    "netmask"
   ],
-  "author": "aloksguha@gmail.com",
+  "author": "Alok Guha",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aloksguha/myip/issues"

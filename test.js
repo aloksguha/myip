@@ -16,5 +16,4 @@ describe('MyIp Tests', function() {
             assert.notEqual(network.getLocalIP6(),undefined);
         });
     });
-
 });
