@@ -14,7 +14,7 @@ module.exports = {
             }
         }
         if(ipAddress.length > 1){
-            return ipAddress;
+            return ipAddress[Math.floor(Math.random() * ((ipAddress.length - 1) - 0 + 1)) + 0];
         }else if(ipAddress.length == 1){
             return ipAddress[0];
         }else{
@@ -32,13 +32,12 @@ module.exports = {
             }
         }
         if(ipAddress.length > 1){
-            return ipAddress;
+            return ipAddress[Math.floor(Math.random() * ((ipAddress.length - 1) - 0 + 1)) + 0];
         }else if(ipAddress.length == 1){
             return ipAddress[0];
         }else{
-            return '127.0.0.1';
+            return 'fc00::/7';
         }
 
     }
 };
-
