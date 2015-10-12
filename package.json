@@ -1,6 +1,6 @@
 {
   "name": "quick-local-ip",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "This is a tiny utility to get local ip address with in node applications.",
   "main": "index.js",
   "scripts": {
